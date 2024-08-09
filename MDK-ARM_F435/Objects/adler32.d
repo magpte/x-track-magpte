@@ -1,0 +1,9 @@
+.\objects\adler32.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\adler32.c
+.\objects\adler32.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\zutil.h
+.\objects\adler32.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\zlib.h
+.\objects\adler32.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\zconf.h
+.\objects\adler32.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\adler32.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\adler32.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\adler32.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\adler32.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
